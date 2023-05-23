@@ -1,7 +1,8 @@
 # Micro-Service
 
-Description:
-This micro service will take the Json file with the websites you want to have ordered and a text file with either “date” or “name”. It will then order the date in the Json file accordingly based on the information in the text file. It will then write the new order into another text fill that can then be read to show the ordered list. Note you can change the names to suit your needs or exsisting text files. 
+Directions of use:
+1.First download the code off the git hub and and the folder to the project that you want the micro service to interact with.
+2.Then open a seperate terminal from your main project and run the 
 
 Video Link: https://youtu.be/e88Euozl8zI
 
