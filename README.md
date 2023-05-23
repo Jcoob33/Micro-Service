@@ -1,6 +1,7 @@
 # Micro-Service
 
 Directions of use:
+
 1.First download the code off the git hub and and the folder to the project that you want the micro service to interact with.
 
 2.Make sure you have a file called sort.py, also make a text file called sorting_preference.txt. This will be used to tell the program if you want to sort by date or if you want to sort by name. This will be done via command line input.
